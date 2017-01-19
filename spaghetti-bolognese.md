@@ -1,4 +1,4 @@
-# Spaghetti Bolognese
+# Spaghetti Vegetarian
 
 ## Ingredients
 
@@ -15,7 +15,6 @@
 - 1 tsp dried oregano
 - 2 fresh bay leaves
 - 2 tbsp tomato purée
-- 1 beef stock cube
 - 1 red chilli, seeded and finely chopped (optional)
 - 125ml red wine
 - 6 cherry tomatoes, sliced in half
